@@ -1,0 +1,12 @@
+{
+    "name": "diadji/fft_project",
+    "require": {
+        "webit/fft": "1.0"
+    },
+    "authors": [
+        {
+            "name": "diadji",
+            "email": "diadjindiaye24@gmail.com"
+        }
+    ]
+}

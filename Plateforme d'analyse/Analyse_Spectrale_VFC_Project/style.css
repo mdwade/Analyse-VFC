@@ -1,0 +1,23 @@
+body{
+    padding:0;
+}
+
+.content{
+    padding: 0;
+    display: grid;
+    grid-template-rows: 20% 50%;
+}
+
+#bar{
+    text-align: center;
+    margin: 0;
+    padding: 1%;
+    background-color: #000;
+    color:#fff;
+    font-size:36px;
+}
+
+
+#header{
+    margin-top:1%;
+}
